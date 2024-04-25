@@ -14,7 +14,7 @@ body{
   justify-content: space-around;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 500px) {
   body {
     h1{
       font-size: 35px;
