@@ -19,6 +19,12 @@ body{
     h1{
       font-size: 35px;
     }
+    #btn{
+    }
+    #btn button{
+      width: 115px;
+      font-size: 14px;
+    }
   }
 }
 #btn button{
