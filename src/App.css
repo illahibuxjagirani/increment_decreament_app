@@ -30,6 +30,10 @@ h3, h2{
       width: 115px;
       font-size: 14px;
     }
+    h3, h2{
+      font-size: 25px;
+      color: red;
+    }
   }
 }
 #btn button{
